@@ -2,7 +2,6 @@
 
 This is a progressive web app which can be installed on any device.
 Application's sole purpose is to increase the awareness amongst people about the COVID-19 infection by providing them a single platform – ‘COVID-19 Healthcare Assistant’ wherein they can make use of all the essential services, information and utilities to help fight this pandemic.
-COVID19 Healthcare Assistant
 
 # About COVID19 Healthcare Assistant
 
